@@ -2,8 +2,8 @@
 from os.path import join, realpath, dirname
 import pygame
 import pygame.freetype
-from cfg import SCREEN_DIMENSIONS, COLORS
-from game import SCREEN, CLOCK, BACKGROUND
+from game_files.cfg import SCREEN_DIMENSIONS, COLORS
+from game_files.game import SCREEN, CLOCK, BACKGROUND
 
 pygame.init()
 

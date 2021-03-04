@@ -2,7 +2,7 @@
 from os.path import join, realpath, dirname
 from random import randrange
 import pygame
-from cfg import (COLORS, BACKGROUND_COLOR, SQUARE_OUTLINE_COLOR, BORDER_COLOR,
+from game_files.cfg import (COLORS, BACKGROUND_COLOR, SQUARE_OUTLINE_COLOR, BORDER_COLOR,
                  SCREEN_DIMENSIONS, BOARD_DIMENSIONS, OFFSET, BORDER_DISTANCE, SQUARE_OFFSET,
                  NUM_COLUMNS, NUM_ROWS, COLUMN_STEP, ROW_STEP, SQUARE_WIDTH, SQUARE_HEIGHT)
 

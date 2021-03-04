@@ -1,7 +1,7 @@
 """Main Tetris module"""
 from os.path import join, realpath, dirname
-from game import CLOCK, give_random_structure, MyException, init_game
-from menu import init_menu
+from game_files.game import CLOCK, give_random_structure, MyException, init_game
+from game_files.menu import init_menu
 import pygame
 
 pygame.init()
