@@ -6,7 +6,7 @@ import pygame
 
 pygame.init()
 
-pygame.mixer.music.load(join(dirname(realpath(__file__)), 'data', 'soundtrack.mp3'))
+pygame.mixer.music.load(join(dirname(realpath(__file__)), 'game_files', 'data', 'soundtrack.mp3'))
 
 GAME_CYCLE = 800
 GAME_EVENT_TYPE = pygame.USEREVENT
