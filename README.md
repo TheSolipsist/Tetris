@@ -1,3 +1,1 @@
-# Tetris-NN
-
-### Our project
+# Tetris, built with pygame
