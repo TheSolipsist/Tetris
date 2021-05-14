@@ -1,1 +1,3 @@
-# Tetris, built with pygame
+# Tetris
+
+Built with pygame
